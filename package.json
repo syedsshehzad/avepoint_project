@@ -1,0 +1,25 @@
+{
+  "name": "avepoint_project",
+  "version": "1.0.0",
+  "description": "Search for solutions to common issues",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedsshehzad/avepoint_project.git"
+  },
+  "author": "Syed S. Shehzad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedsshehzad/avepoint_project/issues"
+  },
+  "homepage": "https://github.com/syedsshehzad/avepoint_project#readme"
+}
